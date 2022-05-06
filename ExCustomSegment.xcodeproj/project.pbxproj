@@ -13,6 +13,7 @@
 		C650AAB22824ABBA001EBA9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C650AAB02824ABBA001EBA9C /* Main.storyboard */; };
 		C650AAB42824ABBC001EBA9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C650AAB32824ABBC001EBA9C /* Assets.xcassets */; };
 		C650AAB72824ABBC001EBA9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C650AAB52824ABBC001EBA9C /* LaunchScreen.storyboard */; };
+		C650AABF2824BC4F001EBA9C /* UnderlineSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = C650AABE2824BC4F001EBA9C /* UnderlineSegmentedControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C650AAB32824ABBC001EBA9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C650AAB62824ABBC001EBA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C650AAB82824ABBC001EBA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C650AABE2824BC4F001EBA9C /* UnderlineSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderlineSegmentedControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C650AAAA2824ABBA001EBA9C /* AppDelegate.swift */,
 				C650AAAC2824ABBA001EBA9C /* SceneDelegate.swift */,
 				C650AAAE2824ABBA001EBA9C /* ViewController.swift */,
+				C650AABE2824BC4F001EBA9C /* UnderlineSegmentedControl.swift */,
 				C650AAB02824ABBA001EBA9C /* Main.storyboard */,
 				C650AAB32824ABBC001EBA9C /* Assets.xcassets */,
 				C650AAB52824ABBC001EBA9C /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C650AAAF2824ABBA001EBA9C /* ViewController.swift in Sources */,
+				C650AABF2824BC4F001EBA9C /* UnderlineSegmentedControl.swift in Sources */,
 				C650AAAB2824ABBA001EBA9C /* AppDelegate.swift in Sources */,
 				C650AAAD2824ABBA001EBA9C /* SceneDelegate.swift in Sources */,
 			);
